@@ -2,17 +2,17 @@
 
 A personal list of good readings.
 
+This is the general list, big topics will be splited into new pages.
+
 ## Workflow
 
 - [Your developers aren’t slow, your process is](http://thenextweb.com/dd/2014/11/25/developers-arent-slow/)
 
-
+---
 
 ## JavaScript
 
-Further readings:
-
-- [React](javascript-react.md)
+### [React](javascript-react.md)
 
 ### Polyfills
 
