@@ -1,4 +1,4 @@
-# XML
+# XML (Extensible Markup Language)
 
 - [W3C Extensible Markup Language (XML)](http://www.w3.org/XML/)
 - [XML on Wikipedia](http://en.wikipedia.org/wiki/XML)

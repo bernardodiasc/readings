@@ -1,4 +1,4 @@
-# React
+# React - A JavaScript library for building user interfaces
 
 - [Official React](http://facebook.github.io/react/)
 - [Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)

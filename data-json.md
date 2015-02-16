@@ -1,4 +1,4 @@
-# JSON
+# JSON (JavaScript Object Notation)
 
 - [Introducing JSON](http://json.org/)
 - [JSON on Wikipedia](http://en.wikipedia.org/wiki/JSON)
