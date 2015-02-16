@@ -3,6 +3,7 @@
 - [Official React](http://facebook.github.io/react/)
 - [Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 - [React.js Conf 2015 on Youtube](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
+- [Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)
 
 ## Articles
 
@@ -17,6 +18,7 @@
 - [Yahoo Mail moving to React](http://www.slideshare.net/rmsguhan/react-meetup-mailonreact)
 - [OSCON 2014: How Instagram.com Works; Pete Hunt](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
 - [Netflix Likes React](http://techblog.netflix.com/2015/01/netflix-likes-react.html)
+- [React.js Conf 2015 - Beyond the DOM: How Netflix plans to enhance your television experience](https://www.youtube.com/watch?v=eNC0mRYGWgc)
 
 ## Flux
 
@@ -27,6 +29,8 @@ __Application architecture for building user interfaces__
 - [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
 - [React.js Conf 2015 - Full Stack Flux](https://www.youtube.com/watch?v=KtmjkCuV-EU)
 - [Beyond the to-do app: Writing complex applications using Flux & React JS](http://madebymany.com/blog/beyond-the-to-do-app-writing-complex-applications-using-flux-react-js)
+- [Practical comparison of different Flux solutions](https://github.com/voronianski/flux-comparison)
+- [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
 
 ## Relay
 
@@ -48,6 +52,7 @@ __Facebook's Data-fetching Framework for React__
 - [Immutable.js](https://github.com/facebook/immutable-js) - Immutable persistent data collections.
 - [React module with BEM Methodology](https://github.com/dfilatov/bem-react)
   - More about [BEM Methodology](https://bem.info/)
+- [Reimplementation of CSS layout using pure JavaScript](https://github.com/facebook/css-layout)
 
 ## Tutorials and guides
 
