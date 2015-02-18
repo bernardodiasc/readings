@@ -64,6 +64,8 @@ __Facebook's Data-fetching Framework for React__
 - [Building robust web apps with React: Part 4, server-side rendering](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
 - [Everyone's Happy: React, Server-side Rendering & SEO](https://speakerdeck.com/matthewwithanm/everyones-happy-react-server-side-rendering-and-seo)
 - [Building a simple slideshow plugin with React](http://piotrf.pl/wrote/building-a-simple-slideshow-with-react-js)
+- [React.js Tutorial Pt 1: A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+- [Million user webchat with Full Stack Flux, React, redis and PostgreSQL](https://blog.rotenberg.io/million-user-webchat-with-full-stack-flux-react-redis-and-postgresql/)
 
 ## Related topics
 
