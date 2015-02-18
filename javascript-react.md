@@ -31,6 +31,7 @@ __Application architecture for building user interfaces__
 - [Beyond the to-do app: Writing complex applications using Flux & React JS](http://madebymany.com/blog/beyond-the-to-do-app-writing-complex-applications-using-flux-react-js)
 - [Practical comparison of different Flux solutions](https://github.com/voronianski/flux-comparison)
 - [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
+- [Learn React, Flux, and Flow: Part I](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM)
 
 ## Relay
 
