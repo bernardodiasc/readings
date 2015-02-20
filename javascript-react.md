@@ -37,6 +37,7 @@ __Application architecture for building user interfaces__
 
 __Facebook's Data-fetching Framework for React__
 
+- [Introducing Relay and GraphQL](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 - [React.js Conf 2015 - Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
   - On [Y Combinator](https://news.ycombinator.com/item?id=8977229)
@@ -67,6 +68,7 @@ __Facebook's Data-fetching Framework for React__
 - [Building a simple slideshow plugin with React](http://piotrf.pl/wrote/building-a-simple-slideshow-with-react-js)
 - [React.js Tutorial Pt 1: A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 - [Million user webchat with Full Stack Flux, React, redis and PostgreSQL](https://blog.rotenberg.io/million-user-webchat-with-full-stack-flux-react-redis-and-postgresql/)
+- [Building Isomorphic Webapps on the JVM with React.js and Spring Boot](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/)
 
 ## Related topics
 
