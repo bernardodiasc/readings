@@ -12,8 +12,6 @@
 - [Opinionated rundown of JS frameworks](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks#react)
 - [Why you might not need MVC with React.js](http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
 - [Facebook just taught us all how to build websites](https://medium.com/@ericflo/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2)
-- [Understanding React and reimplementing it from scratch Part 1: Views](https://gcanti.github.io/2014/10/29/understanding-react-and-reimplementing-it-from-scratch-part-1.html)
-- [Understanding React and reimplementing it from scratch Part 2: Controllers](https://gcanti.github.io/2014/11/24/understanding-react-and-reimplementing-it-from-scratch-part-2.html)
 
 ## In the wild
 
@@ -71,6 +69,8 @@ __Facebook's Data-fetching Framework for React__
 - [React.js Tutorial Pt 1: A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 - [Million user webchat with Full Stack Flux, React, redis and PostgreSQL](https://blog.rotenberg.io/million-user-webchat-with-full-stack-flux-react-redis-and-postgresql/)
 - [Building Isomorphic Webapps on the JVM with React.js and Spring Boot](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/)
+- [Understanding React and reimplementing it from scratch Part 1: Views](https://gcanti.github.io/2014/10/29/understanding-react-and-reimplementing-it-from-scratch-part-1.html)
+- [Understanding React and reimplementing it from scratch Part 2: Controllers](https://gcanti.github.io/2014/11/24/understanding-react-and-reimplementing-it-from-scratch-part-2.html)
 
 ## Related topics
 
