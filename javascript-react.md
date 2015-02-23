@@ -12,6 +12,8 @@
 - [Opinionated rundown of JS frameworks](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks#react)
 - [Why you might not need MVC with React.js](http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
 - [Facebook just taught us all how to build websites](https://medium.com/@ericflo/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2)
+- [Understanding React and reimplementing it from scratch Part 1: Views](https://gcanti.github.io/2014/10/29/understanding-react-and-reimplementing-it-from-scratch-part-1.html)
+- [Understanding React and reimplementing it from scratch Part 2: Controllers](https://gcanti.github.io/2014/11/24/understanding-react-and-reimplementing-it-from-scratch-part-2.html)
 
 ## In the wild
 
