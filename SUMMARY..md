@@ -1,4 +1,0 @@
-# Summary
-
-* [Summary](summary.md)
-
